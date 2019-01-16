@@ -8,3 +8,5 @@ Partial Report Task: Participants are presented with 9 words in a 3x3 grid. Subs
 Mental Scanning Task: A random pattern of dots is flashed briefly on the screen, and after they disappear, an arrow appears. Participants are to indicate whether or not the arrow is pointing towards a place on the screen where a dot had previously been displayed. The distance between the dot and arrow varies per trial. Upon analysis, participants have a longer response time when there was a longer distance between the dot and the arrow. The correlation between response latency and distance is cited as evidence for a mental representation of the image that corresponds to the image itself.
 
 In order to use the code in this repository, first, run cognitive_behavior_tests.m. Follow the instructions presented on the screen. Next, run batch_processing.m on the resulting .csv file.
+
+Partner: Julia Donovan, responsible for some sections of code (credit given in code comments)
